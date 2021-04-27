@@ -1,15 +1,13 @@
 # Hi I'm Aldy Wijaya 👋
+
 <h1 align="center">About me</h1>
 
-<div align="center">
+
 - 👋 Hi, I’m @AldyW <br>
 - 👀 I’m interested in ... <br>
 - 🌱 I’m currently learning ... <br>
 - 💞️ I’m looking to collaborate on ... <br>
 - 📫 How to reach me ... <br><br><br>
-
-  **⭐️ From [Aldy-Wijaya](https://github.com/AldyW)**
-</div>
 
 <!---
 Aldy-Wijaya/Aldy-Wijaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
