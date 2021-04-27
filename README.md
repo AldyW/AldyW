@@ -2,8 +2,6 @@
 
 <h1 align="center">About me</h1>
 
-
-- 👋 Hi, I’m @AldyW <br>
 - 👀 I’m interested in ... <br>
 - 🌱 I’m currently learning ... <br>
 - 💞️ I’m looking to collaborate on ... <br>
